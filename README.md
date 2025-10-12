@@ -34,7 +34,4 @@
 
 ###
 
-![snake gif](https://github.com/iyedmanai/iyedmanai/blob/output/github-snake-dark.svg)
-
-
 ###
